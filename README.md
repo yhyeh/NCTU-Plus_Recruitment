@@ -8,7 +8,7 @@
 
 ![pic.2](https://github.com/yhyeh/NPlus.Recruitment/blob/master/recommand/pic.2.png)
 
-原先兩者功能就有9成9像了，只不過**課程收藏**有可以移除已收藏課程的功能**收藏課程**有加入課表的功能而已
+原先兩者功能就有9成9像了，只不過**課程收藏**有可以移除已收藏課程的功能，而**收藏課程**有加入課表的功能而已
 ### After
 改完後的樣子
 
@@ -25,7 +25,11 @@
 ### 色調與設計稿有出入
 
 應該有更科學的方法可以讓圖片的色調一模一樣，而不是只用肉眼判斷
-  
+
+### 找不到official twitter
+
+點twitter icon還是先連到facebook喔
+
 ### RWD設計
 
-一開始不知道可以用css *@media* selector調整排版，看了Boostrap調整column尺寸的方法才學到
+用css *@media* selector調整排版
