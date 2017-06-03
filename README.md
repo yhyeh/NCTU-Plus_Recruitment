@@ -5,6 +5,7 @@
 
 目前N+以提供與課程相關服務為主，因此可以理解右上角navigation bar有個**課程收藏**的欄位，
 但未來絕對不會只有與課程相關的功能，所以我認為可以把它併入模擬排課中課程查詢的左方**收藏課程**
+
 ![pic.2](https://github.com/yhyeh/NPlus.Recruitment/blob/master/recommand/pic.2.png)
 
 原先兩者功能就有9成9像了，只不過**課程收藏**有可以移除已收藏課程的功能**收藏課程**有加入課表的功能而已
