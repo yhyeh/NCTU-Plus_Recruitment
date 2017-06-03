@@ -17,7 +17,7 @@
 ![pic.4](https://github.com/yhyeh/NPlus.Recruitment/blob/master/recommand/pic.4.png)
 
 在首頁時開啟的**課程收藏**移除圖示沒有減號，但功能正常，而且字體顏色與大小和在其他地方開啟**課程收藏**時都不同
-## 2.
+## 2. 重製設計稿遇到的問題
 ### 不知道大標題是什麼字體
 
 到Google Font找了看起來相似的
